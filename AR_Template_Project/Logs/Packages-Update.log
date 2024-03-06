@@ -1,0 +1,19 @@
+
+=== Wed Mar  6 08:52:11 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.15.15 to 2.2.0
+  com.unity.ide.rider from version 3.0.13 to 3.0.27
+  com.unity.ide.visualstudio from version 2.0.14 to 2.0.22
+  com.unity.render-pipelines.universal from version 12.1.6 to 12.1.14
+  com.unity.test-framework from version 1.1.31 to 1.1.33
+  com.unity.timeline from version 1.6.4 to 1.6.5
+  com.unity.visualscripting from version 1.7.6 to 1.9.1
+  com.unity.xr.arcore from version 4.2.3 to 4.2.10
+  com.unity.xr.arfoundation from version 4.2.3 to 4.2.10
+  com.unity.xr.arkit from version 4.2.3 to 4.2.10
+  com.unity.xr.arkit-face-tracking from version 4.2.3 to 4.2.10
+  com.unity.xr.management from version 4.2.1 to 4.4.0

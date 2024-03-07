@@ -316,6 +316,7 @@
 -r:"Library/Bee/artifacts/900b0aP.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/900b0aP.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/900b0aP.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
+"Assets/PlanePositioning.cs"
 "Assets/Settings/Project Configuration/SceneTemplate_RotateCube.cs"
 "Assets/_ARPortal/Source Files/Scripts/DisplayFPS.cs"
 "Assets/_ARPortal/Source Files/Scripts/LightFlicker.cs"
